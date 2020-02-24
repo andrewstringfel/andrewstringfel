@@ -9,6 +9,13 @@
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
 
+/* Custom CSS */
+.owl-dots {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
 body {
   background: #ffffff;
   color: #898989;
