@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Folio
-Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
+Theme Name: Valera
+Theme URL: https://bootstrapmade.com/valera-free-bootstrap-theme/
+Author: BootstrapMade
 Author URL: https://bootstrapmade.com
